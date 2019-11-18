@@ -1,0 +1,72 @@
+body{
+	background: rgb(139, 139, 133);
+	font-size: 18pt;
+	font-family:Times new roman, Arial, Helvetica;
+	}
+#login{
+	margin: 150px auto;
+	width: 300px;
+	}
+.title{
+	background-color: #ffd900;
+	color: rgb(0, 10, 156);
+	padding: 15px;
+	text-align: center;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 50px;
+	border-bottom: 10px solid rgb(0, 10, 156);
+	}
+.input{
+	padding:5px;
+	height: 250px;
+	background-color: rgb(0, 0, 0);
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 50px;
+	}
+.input .text-input,
+.input .text-password,
+.input .btn{
+	padding:10px;
+	width:270px;
+	display:block;
+	margin: 0 auto;
+	border:0;
+	border-radius:3px;
+	}
+.input .text-input,
+.input .text-password{
+	width:250px;
+	}
+.input .text-password,
+.input .btn{
+	margin-top:4px;
+	}
+.input .btn{
+	background:#ffd900;
+	font-family:'arial';
+	font-size:15px;
+	color:rgb(0, 13, 190);
+	}
+.input .text{
+	margin-top:15px;
+	text-align:center;
+	font-size:12px;
+	font-family:'helvetica';
+	color:#ffd900;
+	}
+.input .text .link{
+	color: aqua;
+}
+.input .label-fp .link{
+	color: aqua;
+	font-size: 15px;
+	padding-left: 10px;
+}
+.button {
+	align-content: center;
+}
+.label {
+	color: white;
+	font-size: 20px;
+	padding-left: 10px;
+}
